@@ -1,16 +1,14 @@
-## Hi there 👋
+### Olá, eu me chamo Leonardo Nascimento! 👋
 
-<!--
-**Lwozinho/Lwozinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um Desenvolvedor Full-Stack e Profissional de TI combinando engenharia de software com experiência prática em infraestrutura. Atualmente focado em me especializar no ecossistema React para construir aplicações web modernas, escaláveis e focadas na experiência do usuário.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
+- **Front-end:** React, TypeScript, Tailwind CSS, JavaScript
+- **Back-end & Banco de Dados:** Node.js, Express, PostgreSQL, Supabase
+- **Metodologias & Deploy:** Vercel, Render, Scrum, Kanban
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Como me encontrar
+- LinkedIn: www.linkedin.com/in/leonardo-nascimento-8a7527262
+
+- E-mail: leonardopintonascimento@gmail.com
